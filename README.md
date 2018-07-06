@@ -9,3 +9,5 @@ This line been modified from feature
 #Adding a new line
 
 ##################################################################
+
+# Jenkins Poll SCM option
