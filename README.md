@@ -12,4 +12,4 @@ This line been modified from feature
 
 # Jenkins Poll SCM option
 
-#jenkins pull request builders
+#jenkins pull request builder
